@@ -1,7 +1,5 @@
-### Hi there 👋
+   
+<h1 align="left">Hi 👋🏽, I'm Prince Kalra</h1>
+![Profile views](https://gpvc.arturio.dev/gabrlcj)
 
-<!--
-**manvimadan12/manvimadan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-<h3 align="center">I am Prince Kalra.</h3>
-
+<h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
