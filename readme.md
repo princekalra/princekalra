@@ -1,34 +1,22 @@
-### Hi there, I'm Prince Kalra 👋
+## Hi there! 👋
 
+I'm a Computer Science Engineering (CSE) student and a passionate Web Developer (MERN stack). I also enjoy Competitive Programming and have experience as a Teaching Assistant!
 
-## I'm a CSE student || Web Developer (MERN) || Competitive Programmer || Ex Teachinng Assistant!!
+- 🌐 As a web developer, I love building dynamic and interactive web applications using the MERN (MongoDB, Express, React, Node.js) stack.
+- 🏆 I'm a competitive programmer, constantly challenging myself with coding problems and algorithmic challenges.
+- 🎓 In the past, I had the privilege of being a Teaching Assistant, where I mentored and assisted students in understanding core computer science concepts and programming.
 
-- 🌱 I’m currently learning MERN 
+### 🌱 Currently...
 
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princekalra&show_icons=true)
+I am actively learning and exploring new technologies to enhance my skills and stay up-to-date with the latest trends in the tech world.
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+### 💡 Fun Fact
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kalra-a3923a18b/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalraprince75@gmail.com)
-  
-</div>
+When I'm not coding or studying, you can find me exploring open-source projects, contributing to the tech community, and sharing my knowledge through blogs and tutorials.
 
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<br />
-<br />
+### 📫 Let's Connect
 
+Feel free to connect with me and explore my GitHub repositories to see some of my coding projects and contributions!
+
+🔗 LinkedIn: [LinkedIn Profile URL]
+🐙 GitHub: [GitHub Profile URL]
