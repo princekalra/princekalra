@@ -1,46 +1,63 @@
-## Hi there! I'm Prince Kalra 👋
+# Hello, I'm Prince Kalra 👋
 
-I am a Software Engineer with a passion for web development and competitive programming. Currently, I am working at GlobalLogic as a Software Engineer, where I focus on developing and implementing frontend solutions using React JS. I leverage Redux and Redux Saga for efficient API integration and state management. To ensure code quality and maintainability, I write comprehensive unit test cases using Jest and Enzyme. I love collaborating with cross-functional teams, including designers and backend developers, to deliver seamless user experiences.
+## A Passionate Software Engineer | Web Developer | Competitive Programmer
 
-### Work Experience
+### 🧑‍💻 About Me
 
-- **Software Engineer** at GlobalLogic (Noida, India) | 07/2022 – Present
-- **Software Development Engineer Intern** at Amazon (Bangalore, India) | 02/2022 – 06/2022
-- **Teaching Assistant** at Coding Ninjas (Remote) | 03/2021 – 08/2021
+- 🌐 Enthusiastic Web Developer proficient in the MERN (MongoDB, Express, React, Node.js) stack.
+- 🏆 Competitive Programmer who enjoys solving challenging coding problems and algorithmic puzzles.
+- 📚 Ex-Teaching Assistant experienced in mentoring and guiding students in Data Structures and Algorithms.
+- 💼 Currently a Software Engineer, building innovative solutions and contributing to exciting projects.
 
-### Education
+### 🏢 Work Experience
 
-- **Bachelor of Technology** in Computer Science - CGPA: 7.5
-  Guru Jambheshwar University of Science and Technology (Hisar, India) | 08/2018 – 07/2022
-- **Class XII** - Percentage: 80.80%
-  Jain Boy Sen. Sec. School (Rewari, India) | 03/2016 – 04/2017
+- 💼 **Software Engineer** at GlobalLogic, Noida, India | Since 07/2022
+  - Developed and implemented frontend solutions using React JS to deliver intuitive user interfaces.
+  - Utilized Redux and Redux Saga for efficient API integration and state management.
+  - Wrote comprehensive unit test cases using Jest and Enzyme to ensure code quality and maintainability.
+  - Collaborated with cross-functional teams to create seamless user experiences.
 
-### Skills & Technologies
+- 💻 **Software Development Engineer Intern** at Amazon, Bangalore, India | 02/2022 – 06/2022
+  - Developed a custom API for efficient retrieval of critical data.
+  - Assisted the team in automating features to enhance system compliance, accuracy, and time savings.
+  - Implemented a filtering mechanism to exclude out-of-scope data, enhancing data accuracy within the system.
+  - Designed and implemented a Lambda function to process DynamoDB streams and deliver processed data to S3 via Kinesis Firehose using AWS CDK.
+
+- 📚 **Teaching Assistant** at Coding Ninjas, Remote | 03/2021 – 08/2021
+  - Mentored and guided 300+ students in Data Structures and Algorithmic concepts.
+  - Provided effective doubt clearance, code debugging support, and assignment assistance.
+
+### 🎓 Education
+
+- 🏛️ **Bachelor of Technology** in Computer Science | CGPA: 7.5
+  Guru Jambheshwar University of Science and Technology, Hisar, India | 08/2018 – 07/2022
+- 📚 **Class XII** | Percentage: 80.80%
+  Jain Boy Sen. Sec. School, Rewari, India | 03/2016 – 04/2017
+
+### 🔧 Skills & Technologies
 
 Languages: C/C++, Java, JavaScript, HTML, CSS, SQL
 Technologies: ReactJS, NodeJS, ExpressJS, MongoDB, Mongoose, AWS(Familiar), Ember JS(Familiar), Redux, Redux Saga, Redux Toolkit
 Testing Framework: TestNG, Jest, and Enzyme
 Developer Tools: VSCode, IntelliJ Idea Ultimate, Sublime Text, Github, Git
 
-### Achievements
+### 🏆 Achievements
 
-- Placed among the top 0.2% in October Long Challenge on CodeChef (Rank 50)
-- Achieved 1107th rank in CodeForces Round 656 (Div3) out of 25,000 participants
-- Secured 1st rank in the coding competition at my university
-- Solved over 1500 coding problems across various coding platforms
+- 🏅 Top 0.2% in [October Long Challenge on CodeChef](https://www.codechef.com/users/kalraprince) (Rank 50)
+- 🥇 Ranked 1107th in [CodeForces Round 656 (Div3)](https://codeforces.com/profile/Kalra_prince) out of 25,000 participants
+- 🏆 1st place in the coding competition at my university
+- 💡 Solved over 1500 coding problems across various platforms
 
-### Coding Profiles
+### 🚀 Coding Profiles
 
-- Codechef: kalraprince (max 1881, 4 stars)
-- Codeforces: Kalra prince (max. specialist, 1421)
-- GeeksforGeeks: kalraprince75
-- Hackerrank: kalraprince9909
-- LeetCode: kalra prince
-- InterviewBit: Prince KALRA
+- CodeChef: [kalraprince (max 1881, 4 stars)](https://www.codechef.com/users/kalraprince)
+- CodeForces: [Kalra prince (max. specialist, 1421)](https://codeforces.com/profile/Kalra_prince)
+- LeetCode: [kalra prince](https://leetcode.com/kalra_prince/)
+- HackerRank: [kalraprince9909](https://www.hackerrank.com/kalraprince9909?hr_r=1)
+- GeeksforGeeks: [kalraprince75](https://auth.geeksforgeeks.org/user/kalraprince75/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 
-### 📫 Let's Connect
+### 💬 Let's Connect
 
 Feel free to connect with me and explore my GitHub repositories to see some of my coding projects and contributions!
 
-🔗 LinkedIn: [LinkedIn Profile URL]
-🐙 GitHub: [GitHub Profile URL]
+🔗 [LinkedIn](https://www.linkedin.com/in/prince-kalra-a3923a18b/) | 🐙 [GitHub](https://github.com/princekalra)
